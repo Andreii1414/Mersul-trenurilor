@@ -1,0 +1,169 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+
+<trenuri>
+	<tren>
+		<nume>IR72</nume>
+		<ruta>Bucuresti Nord - Timisoara</ruta>
+		<gari>
+			<gara>
+				<numeGara>Bucuresti Nord</numeGara>
+				<sosire>-</sosire>
+				<plecare>06:06</plecare>
+				<intarziere>0</intarziere>
+				<estimarePlecare>06:06</estimarePlecare>
+				<estimareSosire>-</estimareSosire>
+			</gara>
+			<gara>
+				<numeGara>Caracal</numeGara>
+				<sosire>08:42</sosire>
+				<plecare>08:43</plecare>
+				<intarziere>0</intarziere>
+				<estimarePlecare>08:43</estimarePlecare>
+				<estimareSosire>08:42</estimareSosire>
+			</gara>
+			<gara>
+				<numeGara>Craiova</numeGara>
+				<sosire>09:31</sosire>
+				<plecare>09:38</plecare>
+				<intarziere>0</intarziere>
+				<estimarePlecare>09:38</estimarePlecare>
+				<estimareSosire>09:31</estimareSosire>
+			</gara>
+			<gara>
+				<numeGara>Turnu Severin</numeGara>
+				<sosire>11:45</sosire>
+				<plecare>11:53</plecare>
+				<intarziere>0</intarziere>
+				<estimarePlecare>11:53</estimarePlecare>
+				<estimareSosire>11:45</estimareSosire>
+			</gara>
+			<gara>
+				<numeGara>Lugoj</numeGara>
+				<sosire>14:52</sosire>
+				<plecare>14:56</plecare>
+				<intarziere>0</intarziere>
+				<estimarePlecare>14:56</estimarePlecare>
+				<estimareSosire>14:52</estimareSosire>
+			</gara>
+			<gara>
+				<numeGara>Timisoara Nord</numeGara>
+				<sosire>15:55</sosire>
+				<plecare>-</plecare>
+				<intarziere>0</intarziere>
+				<estimarePlecare>-</estimarePlecare>
+				<estimareSosire>15:55</estimareSosire>
+			</gara>
+		</gari>
+	</tren>
+
+	<tren>
+		<nume>IR1631</nume>
+		<ruta>Bucuresti Nord - Galati</ruta>
+		<gari>
+			<gara>
+				<numeGara>Bucuresti Nord</numeGara>
+				<sosire>-</sosire>
+				<plecare>05:30</plecare>
+				<intarziere>0</intarziere>
+				<estimarePlecare>05:30</estimarePlecare>
+				<estimareSosire>-</estimareSosire>
+			</gara>
+			<gara>
+				<numeGara>Ploiesti Sud</numeGara>
+				<sosire>06:08</sosire>
+				<plecare>06:09</plecare>
+				<intarziere>0</intarziere>
+				<estimarePlecare>06:09</estimarePlecare>
+				<estimareSosire>06:08</estimareSosire>
+			</gara>
+			<gara>
+				<numeGara>Buzau</numeGara>
+				<sosire>07:13</sosire>
+				<plecare>07:15</plecare>
+				<intarziere>0</intarziere>
+				<estimarePlecare>07:15</estimarePlecare>
+				<estimareSosire>07:13</estimareSosire>
+			</gara>
+			<gara>
+				<numeGara>Faurei</numeGara>
+				<sosire>07:42</sosire>
+				<plecare>07:43</plecare>
+				<intarziere>0</intarziere>
+				<estimarePlecare>07:43</estimarePlecare>
+				<estimareSosire>07:42</estimareSosire>
+			</gara>
+			<gara>
+				<numeGara>Braila</numeGara>
+				<sosire>08:31</sosire>
+				<plecare>08:33</plecare>
+				<intarziere>0</intarziere>
+				<estimarePlecare>08:33</estimarePlecare>
+				<estimareSosire>08:31</estimareSosire>
+			</gara>
+			<gara>
+				<numeGara>Barbosi</numeGara>
+				<sosire>08:50</sosire>
+				<plecare>08:51</plecare>
+				<intarziere>0</intarziere>
+				<estimarePlecare>08:51</estimarePlecare>
+				<estimareSosire>08:50</estimareSosire>
+			</gara>
+			<gara >
+				<numeGara>Galati</numeGara>
+				<sosire>9:10</sosire>
+				<plecare>-</plecare>
+				<intarziere>0</intarziere>
+				<estimarePlecare>-</estimarePlecare>
+				<estimareSosire>09:10</estimareSosire>
+			</gara>
+		</gari>
+	</tren>
+
+	<tren>
+		<nume>IRN1653</nume>
+		<ruta>Buzau - Bacau</ruta>
+		<gari>
+			<gara>
+				<numeGara>Buzau</numeGara>
+				<sosire>-</sosire>
+				<plecare>00:19</plecare>
+				<intarziere>0</intarziere>
+				<estimarePlecare>00:19</estimarePlecare>
+				<estimareSosire>-</estimareSosire>
+			</gara>
+			<gara>
+				<numeGara>Focsani</numeGara>
+				<sosire>01:20</sosire>
+				<plecare>01:21</plecare>
+				<intarziere>0</intarziere>
+				<estimarePlecare>01:21</estimarePlecare>
+				<estimareSosire>01:20</estimareSosire>
+			</gara>
+			<gara>
+				<numeGara>Marasesti</numeGara>
+				<sosire>01:39</sosire>
+				<plecare>01:40</plecare>
+				<intarziere>0</intarziere>
+				<estimarePlecare>01:40</estimarePlecare>
+				<estimareSosire>01:39</estimareSosire>
+			</gara>
+			<gara>
+				<numeGara>Adjud</numeGara>
+				<sosire>02:01</sosire>
+				<plecare>02:02</plecare>
+				<intarziere>0</intarziere>
+				<estimarePlecare>02:02</estimarePlecare>
+				<estimareSosire>02:01</estimareSosire>
+			</gara>
+			<gara>
+				<numeGara>Bacau</numeGara>
+				<sosire>02:38</sosire>
+				<plecare>-</plecare>
+				<intarziere>0</intarziere>
+				<estimarePlecare>-</estimarePlecare>
+				<estimareSosire>02:38</estimareSosire>
+			</gara>
+		</gari>
+	</tren>
+
+</trenuri>
